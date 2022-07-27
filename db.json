@@ -39,6 +39,30 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Cup of Noodles",
+      "restaurant": "Cups",
+      "image": "https://www.thespruceeats.com/thmb/N-6cXeoeazMXzgD4ORL6HXgd370=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-ramen-5213797-Hero_01-62be02c826f74378aeaccbaa4f9af3ec.jpg",
+      "rating": "4",
+      "comment": "Maybe",
+      "id": 8
+    },
+    {
+      "name": "Random",
+      "restaurant": "Place",
+      "image": "https://assets.bonappetit.com/photos/57ae038653e63daf11a4e122/1:1/w_2240,c_limit/shoyu-ramen.jpg",
+      "rating": "7",
+      "comment": "Looks yummy",
+      "id": 9
+    },
+    {
+      "name": "Rent",
+      "restaurant": "Place",
+      "image": "https://www.justonecookbook.com/spicy-shoyu-ramen/",
+      "rating": "6",
+      "comment": "hi",
+      "id": 10
     }
   ]
 }
